@@ -1,0 +1,9 @@
+com/example/DatabaseConnector.class
+com/example/InfraredServlet.class
+com/example/WeatherService.class
+com/example/ConfigLoader.class
+com/example/WeatherService$WeatherInfo.class
+com/example/NotificationService$1.class
+com/example/NotificationService.class
+com/example/UserActivityDAO.class
+com/example/TimestampUtil.class
